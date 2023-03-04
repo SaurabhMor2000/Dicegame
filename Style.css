@@ -9,3 +9,8 @@ body{
 img{
     width: 10%;
 }
+p{
+    text-align: center;
+    font-family: "sofia";
+    color: red;
+}
