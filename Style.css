@@ -1,0 +1,11 @@
+.container{
+    text-align: center;
+    font-size: 4rem;
+    font-family: "sofia";
+}
+body{
+    background-color: aqua;
+}
+img{
+    width: 10%;
+}
